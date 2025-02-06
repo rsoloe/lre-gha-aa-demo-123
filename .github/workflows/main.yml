@@ -36,7 +36,7 @@ jobs:
           lre_domain: DEFAULT
           lre_project: LRE_Ray
           #lre_test: YamlTest/createTestFromYaml.yaml
-          lre_test: 197
+          lre_test: 309
           lre_test_instance: AUTO
           lre_timeslot_duration_hours: 0
           lre_timeslot_duration_minutes: 30
